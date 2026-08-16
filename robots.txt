@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dangsan-club-note.hongdae-massage-review.xyz/sitemap.xml
+Sitemap: https://dangsan-club-note.hongdae-massage-review.xyz/sitemap-pages.xml
